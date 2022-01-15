@@ -1,6 +1,6 @@
 # password
 
-A new Flutter project.
+Just a simple PIN Code page on flutter for super beginers.
 
 ## Getting Started
 
